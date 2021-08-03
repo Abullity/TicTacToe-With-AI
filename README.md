@@ -29,7 +29,7 @@ The program will prompt you for command.
 The game has three difficulties
 <ul>
   <li> Easy - the machine chooses random available cell from the board </li>
-  <li> Medium - if there are rows, columns or diagonals that are one symbol away from game being finished, medium will try to win or not to loose, in that order </li>
+  <li> Medium - if there are rows, columns or diagonals that are one symbol away from finishing the game, it will try to win or not to loose, in that order </li>
   <li> Hard - machine uses minimax algorithm </li>
 </ul>
 
